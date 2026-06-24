@@ -1,0 +1,24 @@
+# Generated outputs (plots saved at runtime)
+outputs_timegan/
+
+# Saved models
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
